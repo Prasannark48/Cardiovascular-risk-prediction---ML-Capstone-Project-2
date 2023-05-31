@@ -1,6 +1,6 @@
 # Cardiovascular-risk-prediction---ML-Capstone-Project-2
 
-Cardiovascular disease is a group of diseases affecting your heart and blood vessels. These diseases can affect one or many parts of your heart and/or blood vessels. A person may be symptomatic (physically experiencing the disease) or asymptomatic (not feeling anything at all).
+Cardiovascular disease (CVD) is a general term for conditions affecting the heart or blood vessels. It's usually associated with a build-up of fatty deposits inside the arteries (atherosclerosis) and an increased risk of blood clots. There are many different types of CVD. one of the main type is Coronary heart disease(CHD). Coronary heart disease occurs when the flow of oxygen-rich blood to the heart muscle is blocked or reduced.
 
 Cardiovascular disease includes heart or blood vessel issues, including:
 
