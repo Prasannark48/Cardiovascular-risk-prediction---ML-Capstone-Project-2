@@ -5,7 +5,9 @@ Cardiovascular disease is a group of diseases affecting your heart and blood ves
 Cardiovascular disease includes heart or blood vessel issues, including:
 
 1.Narrowing of the blood vessels in your heart, other organs or throughout your body.
+
 2.Heart and blood vessel problems present at birth.
+
 3.Irregular heart rhythms.
 
 The given dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes. Variables Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
